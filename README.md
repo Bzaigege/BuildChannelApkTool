@@ -27,13 +27,13 @@ xiaomi # 小米
 
 示例说明：
 
-keyAlias=sg
+keyAlias=xxx
 
-keyPassword=s123456
+keyPassword=xxx
 
-storeFile=android.keystore
+storeFile=xxx.keystore
 
-storePassword=s123456
+storePassword=xxx
 
 
 ###3、双击运行start.bat后，拖入需签名包体apk即可
